@@ -1,0 +1,19 @@
+import pandas as pd
+
+data = pd.read_csv ('/datasets/visits.csv', sep='\t')
+
+total_visits = data.shape[0]#количество заездов на АЗС 
+print('Количество заездов:', total_visits)
+
+total_stations = len(data['id'].unique())
+print('Количество АЗС:', total_stations)
+print(data['date_time'].min(), data['date_time'].max())
+
+total_days = 7
+station_visits_per_day = total_visits / total_stations / total_days
+print('Количество заездов на АЗС в сутки:', station_visits_per_day)
+
+print(data['name'].value_counts().head(10)) #10 gas station networks with the largest number of arrivals
+
+#there is a hypothesis that the duration of refueling is calculated incorrectly: in some networks, this time looks incredibly small.
+
