@@ -15,5 +15,4 @@ Based on Yandex.Realty service data determine market value real estate objects o
 * scattermatrix
 
 ## General conclusion
-Was carried out data preprocessing, were eliminated duplicates and omissions. Added new data.
-Histograms, boxplots, scatterplots are constructed.
+Was carried out data preprocessing, were eliminated duplicates and omissions. Added new data and also histograms, boxplots, scatterplots are constructed.
