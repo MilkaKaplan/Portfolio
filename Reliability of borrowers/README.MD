@@ -14,4 +14,4 @@ Using real data from statistics on the solvency of customers, need to understand
 ## General conclusion
 Was carried out data preprocessing, were eliminated duplicates and omissions. 
 
-Lemmatization was carried out, which made it possible to group goals and discard unnecessary ones. Categorizing groups according to a certain criterion (presence of children, income level, marital status and goals) made it possible to visually see the dependencies on the probability of repaying the loan on time..
+Lemmatization was carried out, which made it possible to group goals and discard unnecessary ones. Categorizing groups according to a certain criterion (presence of children, income level, marital status and goals) made it possible to visually see the dependencies on the probability of repaying the loan on time.
