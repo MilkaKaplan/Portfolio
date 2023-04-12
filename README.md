@@ -5,9 +5,9 @@
 ___
 | #| name of project| description| stack|
 |---|---------------|------------|------|
-| 1.| [Researching of data from the Yandex.Musik  service - a comparison of users of two cities](https://github.com/MilkaKaplan/Portfolio/blob/research-data-analysis/Musik%20.ipynb)| Based on real data from Yandex.Music, user behavior was determined (Moscow and St. Petersburg)| python, pandas|
-| 2.| [Researching of the reliability of borrowers](https://github.com/MilkaKaplan/Portfolio/blob/research-data-analysis/Reliability%20of%20borrowers/Analysis%20of%20borrowers%20reliability.ipynb)| Based on statistics on the solvency of clients, the influence of marital status and the number of children on the fact of repaying the loan on time was studied.| python, pandas, seaborn, matpotlib|
-| 3.| [Researching of advertisements for the sale of apartments](https://github.com/MilkaKaplan/Portfolio/blob/research-data-analysis/ADS%20for%20the%20sale%20of%20apartments/Research_of_ads_for_the_sale_of_apartments.ipynb)| Based on Yandex.Realty service data determine market value real estate objects of various types, typical parameters of apartments.| python, pandas, seaborn, matpotlib,  histogram, boxplot, scattermatrix,|
+| 1.| [Researching of data from the Yandex.Musik  service - a comparison of users of two cities](https://github.com/MilkaKaplan/Portfolio/blob/research-data-analysis/Musik%20.ipynb)| Based on real data from Yandex.Music, user behavior was determined (Moscow and St. Petersburg)| python, pandas| language: English|
+| 2.| [Researching of the reliability of borrowers](https://github.com/MilkaKaplan/Portfolio/blob/research-data-analysis/Reliability%20of%20borrowers/Analysis%20of%20borrowers%20reliability.ipynb)| Based on statistics on the solvency of clients, the influence of marital status and the number of children on the fact of repaying the loan on time was studied.| python, pandas, seaborn, matpotlib| language: English|
+| 3.| [Researching of advertisements for the sale of apartments](https://github.com/MilkaKaplan/Portfolio/blob/research-data-analysis/ADS%20for%20the%20sale%20of%20apartments/Research_of_ads_for_the_sale_of_apartments.ipynb)| Based on Yandex.Realty service data determine market value real estate objects of various types, typical parameters of apartments.| python, pandas, seaborn, matpotlib,  histogram, boxplot, scattermatrix| language: Russian, English| 
 
 
 
