@@ -1,6 +1,6 @@
 # Research of computer games
 
-[ipynb](https://github.com/MilkaKaplan/Portfolio_DA/blob/research-data-analysis/Catering%20market/Catering%20Market%20(2).ipynb)
+[ipynb](https://github.com/MilkaKaplan/Portfolio_DA/blob/research-data-analysis/Catering%20market/Catering%20Market%20(3).ipynb)
 
 ## Project description
 Researching the catering market in Moscow to make a decision about opening of a new establishment. 
