@@ -16,6 +16,8 @@ ___
 | 9.| [Catering market](https://github.com/MilkaKaplan/Portfolio_DA/blob/research-data-analysis/Catering%20market/Catering%20Market%20(3).ipynb)|Researching the catering market in Moscow to make a decision about opening of a new establishment| python, pandas, matpotlib, seaborn, numpy, scipy, plotly| Russian, English|
 | 10.| [A-A_B Tests - Mobile App Users](https://github.com/MilkaKaplan/Portfolio_DA/blob/research-data-analysis/A-A_B%20Tests%20-%20Mobile%20App%20Users/Mobile%20App%20Users%20-%20A-A_B%20Tests.ipynb)|Researching the catering market in Moscow to make a decision about opening of a new establishment| python, pandas, matpotlib, seaborn, numpy, plotly, statistical test| Russian, English|
 | 11.| [Dashboard_news](https://github.com/MilkaKaplan/Portfolio_DA/blob/research-data-analysis/Dashboard%20-%20news/Dashboard_news.ipynb)|Dashboard with metrics of user interaction with article cards| dashboard, papline, Yandex.Cloud, remote server, virtual machine, cron| Russian, English|
+| 12.| [Online-store for home - segmentation](https://github.com/MilkaKaplan/Portfolio_DA/blob/research-data-analysis/Online-store%20for%20home%20-%20segmentation/Online-store%20for%20home%20-%20segmentation.ipynb)|Based on real data from internet store for home - segment customers by consumption profile | python, pandas, matpotlib, seaborn, numpy, scipy, StandardScaler, KMeans, statistical test, dendrogram, silhouette_score, graph_objects| Russian, English|
+
 
 
 
